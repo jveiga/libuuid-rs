@@ -1,0 +1,11 @@
+[package]
+
+name = "libuuid"
+version = "0.0.1"
+authors = ["João Veiga <styluss@gmail.com>"]
+
+[lib]
+
+name = "bindgen"
+path = "src/lib.rs"
+
